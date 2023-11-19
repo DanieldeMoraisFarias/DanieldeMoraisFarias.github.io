@@ -6,16 +6,10 @@
     color:aliceblue;
     padding-top: 25px;
 }
-/* .topicos{
-    text-align: center;
-}
-.textos{
-    text-align: center;
-}
-.imgs{
-     center;
-} */
-
 #conteudo{
     text-align: center;
+}
+#referencias{
+    background-color: black;
+    color:aliceblue
 }
